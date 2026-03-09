@@ -69,6 +69,10 @@ pip install -r requirements.txt
 ```bash
 streamlit run app.py
 ```
+if prompts error use 
+```bash
+python -m streamlit run app.py
+```
 
 ### 5. Open in browser
 
