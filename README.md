@@ -55,7 +55,7 @@ https://github.com/psumarani/Missionaries-and-Cannibals-Game.git
 ### 2. Navigate to the project directory
 
 ```bash
-cd missionaries-cannibals-game
+cd Missionaries-and-Cannibals-Game
 ```
 
 ### 3. Install required dependencies
